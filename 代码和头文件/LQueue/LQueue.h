@@ -18,6 +18,13 @@
  **************************************************************/
 #ifndef LQUEUE_H_INCLUDED
 #define LQUEUE_H_INCLUDED
+#include <stdio.h>
+#include <stdlib.h>
+#define YES 1 	//已经初始化
+#define NO 0 	//未初始化 
+#define INT 1
+#define CHAR 2
+#define DOUBLE 3
 
 /**************************************************************
  *    Struct Define Section
